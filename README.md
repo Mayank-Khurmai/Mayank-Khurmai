@@ -25,7 +25,6 @@
 <a href="https://t.me/mayank_khurmai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Mayank Khurmai" height="20" width="20" /></a>
 <a href="https://twitter.com/mayank_khurmai?lang=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mayank Khurmai" height="20" width="20" /></a>
 <a href="https://api.whatsapp.com/send?phone=919720315564" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Mayank Khurmai" height="20" width="20" /></a>
-<a href="https://github.com/Mayank-Khurmai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Mayank Khurmai" height="20" width="20" /></a>
 </p>
 
 
