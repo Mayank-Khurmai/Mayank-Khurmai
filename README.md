@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact - **All Rounder**
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Khurmai&show_icons=true" alt="Mayank Khurmai" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mayank-khurmai-a5437b15a/?originalSubdomain=in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mayank Khurmai" height="20" width="20" /></a>
